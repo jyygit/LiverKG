@@ -1,0 +1,14 @@
+0	Disease-Drug
+1	Disease-GOMF
+2	Disease-GOBP
+3	Disease-Gene
+4	Disease-Symptom
+5	Drug-Side Effect
+6	Disease-Disease
+7	Disease-GOCC
+8	miRNA-Drug
+9	Disease-KEGG
+10	Gene-Gene
+11	Gene-Drug
+12	Disease-Variant
+13	miRNA-Gene
